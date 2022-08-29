@@ -3,7 +3,7 @@
         <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     </PropertyGroup>
     <ItemGroup>
-        <PackageVersion Include="Nethereum.JsonRpc.RpcClient" Version="4.7.0" />
+        <PackageVersion Include="Nethereum.JsonRpc.RpcClient" Version="4.8.0" />
         <PackageVersion Include="Nethereum.RLP"               Version="4.7.0" />
         <PackageVersion Include="Nethereum.RPC"               Version="4.7.0" />
         <PackageVersion Include="Nethereum.Web3"              Version="4.7.0" />
